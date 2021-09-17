@@ -10,7 +10,7 @@ We are a group of youngsters who just want that no one looses their closed ones 
 
 On the Covid Resource website any can contribue [licensed as MIT][mlh-license].
 
-[mlh-license]: https://github.com/thisismemukul/API-s/blob/main/LICENSE.md
+[mlh-license]: https://github.com/thisismemukul/covidresources/blob/main/LICENSE.md
 
 ============================================================================
 
