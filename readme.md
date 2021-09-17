@@ -1,9 +1,18 @@
 # Covid-19 Resources Website
 <p align="center">
-<img src="https://github.com/thisismemukul/movie_search_api/blob/main/public/vid/Movie%20search%20app%20Demo.gif" alt="Databay showcase gif" title="CovidResource showcase gif" width="500"/>
+<img src="https://github.com/thisismemukul/covidresources/blob/main/img/covidresource.gif" alt="Databay showcase gif" title="CovidResource showcase gif" width="500"/>
 </p>
 <!-- <h3> Website Link 🔗: https://lnkd.in/g8fAq6gd</h3> -->
 We are a group of youngsters who just want that no one looses their closed ones just because of not access to some resources which someone else is having and you just can't find it. We are here to provide you with all we can. We try our best so that no one out their runs out of resources.
+
+
+# License
+
+On the Covid Resource website any can contribue [licensed as MIT][mlh-license].
+
+[mlh-license]: https://github.com/thisismemukul/API-s/blob/main/LICENSE.md
+
+============================================================================
 
 ## I'm a Web Developer, Graphic Designer, and Student!
 
